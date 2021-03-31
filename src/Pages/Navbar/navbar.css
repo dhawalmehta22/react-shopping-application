@@ -1,0 +1,37 @@
+.div-class {
+    display: block;
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    background-color: #333;
+    height: 60px;
+    background: #F5F5F5 0% 0% no-repeat padding-box;
+    box-shadow: 0px 3px 6px #00000029;
+    opacity: 1;
+    font: normal normal 300 16px/22px 'Montserrat';
+}
+
+.navbar-text {
+    display: block;
+    color: #080808;
+    width: 81px;
+    height: 19px;
+    text-align: center;
+    text-decoration: none;
+    float: right;
+    padding: 15px
+}
+
+.active {
+    font: normal normal bold 16px/19px Montserrat;
+}
+
+.logo {
+    float: left;
+    padding: 3px;
+}
+
+.navbar-icon {
+    float: right;
+    padding: 15px;
+}

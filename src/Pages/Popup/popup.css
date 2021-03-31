@@ -1,0 +1,40 @@
+/* Popup style */
+
+.popup-box {
+    position: fixed;
+    background: #00000050;
+    width: 100%;
+    height: 100vh;
+    top: 0;
+    left: 0;
+    font: normal normal 300 14px/22px 'Montserrat';
+}
+
+.box {
+    position: relative;
+    width: 40%;
+    margin: 0 auto;
+    height: auto;
+    max-height: 70vh;
+    margin-top: 300px;
+    background: #fff;
+    border-radius: 4px;
+    padding: 20px;
+    border: 1px solid #999;
+    overflow: auto;
+}
+
+.close-icon {
+    content: 'X';
+    cursor: pointer;
+    position: fixed;
+    right: 384px;
+    top: 300px;
+    background: #ededed;
+    width: 25px;
+    height: 25px;
+    line-height: 20px;
+    text-align: center;
+    border: 1px solid #999;
+    font-size: 20px;
+}

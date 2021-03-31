@@ -1,0 +1,54 @@
+.card-cart {
+    display: inline-block;
+    border-bottom: 1px solid #00000029;
+    padding: 10px;
+    font: normal normal 300 14px/22px 'Montserrat';
+}
+
+.right-card {
+    width: 23%;
+    background: #FFFFFF 0% 0% no-repeat padding-box;
+    box-shadow: 0px 3px 6px #00000029;
+    opacity: 1;
+    display: inline-block;
+    margin-right: 146px;
+    margin-left: 10px;
+    display: inline-table;
+}
+
+.cartDetails {
+    border-bottom: 1px solid #00000029;
+    padding-bottom: 11px;
+}
+
+.right-grid {
+    width: 100%;
+    display: grid;
+    border-bottom-style: solid;
+    border-bottom-color: #00000029;
+}
+
+.empty-para {
+    color: grey
+}
+
+.cart-value {
+    border-bottom-style: solid;
+    border-bottom-color: #00000029;
+}
+
+.value-para {
+    border-top-color: #00000029;
+    font-size: 15px;
+    width: 46%;
+    text-align: left;
+    margin-left: 14px;
+}
+
+.card-cart-course-name {
+    text-align: left;
+}
+
+.card-cart-price {
+    text-align: right;
+}

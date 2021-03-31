@@ -1,0 +1,66 @@
+.main-div {
+    width: 1100px;
+    height: 111px;
+    margin-left: 140px;
+    margin-right: 140px;
+    background: #0F1317 0% 0% no-repeat padding-box;
+    border-radius: 4px;
+    opacity: 1;
+    font: normal normal 300 14px/22px 'Montserrat';
+}
+
+table,
+th,
+td {
+    border: 1px solid black;
+    border-collapse: collapse;
+    color: white;
+}
+
+table {
+    width: 100%;
+    overflow: none;
+}
+
+.black-div {
+    margin-bottom: 10px;
+    background-color: black;
+    margin-left: 126px;
+    margin-right: 40px;
+    width: 80%;
+    height: 92px;
+    margin-top: 10px;
+}
+
+.white-font {
+    color: white;
+    float: left;
+    padding-left: 15px;
+    text-align: left;
+}
+
+.react-logo {
+    float: right;
+    width: 300px;
+    padding: 0px 0px 2px 2px;
+    zoom: 2;
+}
+
+
+/* .cart {
+    display: inline;
+    margin-right: 140px;
+    margin-left: 425px;
+    width: 398px;
+    height: 680px;
+    color: black;
+} */
+
+.courseList {
+    display: inline;
+    float: left;
+    margin-right: 425px;
+    margin-left: 140px;
+    width: 398px;
+    height: 680px;
+}

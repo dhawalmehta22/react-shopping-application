@@ -1,0 +1,119 @@
+.course-details-header {
+    text-align: left;
+}
+
+.course-detail-main-div {
+    align-items: center;
+    width: 100%;
+    font: normal normal 300 14px/22px 'Montserrat';
+}
+
+.black-grid {
+    background: black;
+    height: 40%;
+    width: 100%;
+    margin-top: -18px;
+}
+
+.para-title {
+    color: white;
+    font-size: 25px;
+    margin-left: 92px;
+    padding: 30px;
+    text-align: left;
+}
+
+.para-intro {
+    color: white;
+    font-size: 15px;
+    padding: 20px;
+    text-align: left;
+    color: white;
+    font-size: 15px;
+    margin-left: 102px;
+    margin-top: -27px;
+    /* padding: 20px; */
+    text-align: left
+}
+
+.para-author {
+    font-size: 12px;
+    margin-left: 120px;
+    padding-bottom: 30px;
+    text-align: left;
+    font: normal normal 300 16px/19px Montserrat;
+    letter-spacing: 0px;
+    color: #FF9271;
+}
+
+.left-info-card {
+    display: inline-block;
+    width: 50%;
+    margin-left: 100px;
+    background: #FFFFFF 0% 0% no-repeat padding-box;
+    border: 1px solid #E0E0E0;
+    opacity: 1;
+    padding: 10px;
+    text-align: left;
+    font: normal normal 300 18px/22px Montserrat;
+}
+
+.right-info-card {
+    float: right;
+    width: 38%;
+    margin-right: 30px;
+    margin-top: 120px;
+    background: #FFFFFF 0% 0% no-repeat padding-box;
+    border: 1px solid #E0E0E0;
+    opacity: 1;
+}
+
+.cart-amount {
+    text-align: left;
+    margin-left: 10px;
+    font-size: 20px;
+}
+
+.cart-button {
+    width: 161px;
+    color: white;
+    font-size: 12px;
+    height: 35px;
+    background: #FF6738 0% 0% no-repeat padding-box;
+    opacity: 1;
+    float: left;
+    margin-left: 30px;
+    margin-bottom: 30px;
+}
+
+.wishlist-button {
+    width: 161px;
+    color: #FF6738;
+    font-size: 12px;
+    height: 35px;
+    border: 1px solid #FF6738;
+    background: #E0E0E0 0% 0% no-repeat padding-box;
+    border-radius: 4px;
+    opacity: 1;
+    float: right;
+    margin-right: 30px;
+    margin-bottom: 30px;
+}
+
+.course-video {
+    position: absolute;
+    top: 250px;
+    left: 805px;
+    z-index: 0;
+    overflow: hidden;
+    border: 1px solid white;
+}
+
+.course-details-button {
+    display: inline-block;
+}
+
+.time-left {
+    font: #FF6738;
+    display: inline-flex;
+}

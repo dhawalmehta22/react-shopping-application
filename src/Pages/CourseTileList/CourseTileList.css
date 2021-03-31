@@ -1,0 +1,189 @@
+.main-table {
+    border-style: dashed;
+    width: 60%;
+    width: 1640px;
+    height: 111px;
+    font: normal normal 300 18px/22px 'Montserrat';
+}
+
+table,
+th,
+td {
+    font: normal normal 300 18px/22px 'Montserrat';
+    border: 1px solid black;
+    border-collapse: collapse;
+    width: 100%;
+}
+
+th,
+td {
+    padding: 15px;
+    text-align: left;
+    align-items: center;
+}
+
+#t01 {
+    width: 100%;
+    background-color: #f1f1c1;
+}
+
+.black-div {
+    font: normal normal 300 18px/22px 'Montserrat';
+    margin-bottom: 10px;
+    background-color: black;
+    margin-left: 126px;
+    margin-right: 40px;
+    width: 80%;
+    height: 92px;
+    margin-top: 10px;
+}
+
+.white-font {
+    color: white;
+    float: left;
+    padding-left: 15px;
+}
+
+.data-card {
+    font: normal normal 300 18px/22px 'Montserrat';
+    margin-left: 128px;
+    width: 86%;
+    height: 100px;
+    background: #FFFFFF 0% 0% no-repeat padding-box;
+    box-shadow: 0px 3px 6px #00000029;
+    border: 1px solid #F4F4F4;
+    border-radius: 0px 0px 4px 4px;
+    opacity: 3;
+}
+
+.search-bar {
+    margin: 19px;
+    float: right
+}
+
+.course-image {
+    width: 40px;
+    height: 40px;
+    float: left;
+    margin-top: 20px;
+    margin-left: 15px;
+    margin-right: 5px;
+    background: #F2F2F2 0% 0% no-repeat padding-box;
+    opacity: 1;
+}
+
+.course-title {
+    font-size: 13px;
+    float: left;
+    width: 25%;
+    text-align: left;
+    padding: 10px;
+    margin-top: 10px
+}
+
+.course-instructor {
+    font-size: 15px;
+    width: 15%;
+    color: grey;
+    float: left;
+    padding-left: 0px;
+    padding-right: 14px;
+    margin-top: 10px
+}
+
+.wishlist-star {
+    margin-top: 20px;
+    font-size: 15px;
+    color: grey;
+    float: left;
+}
+
+.course-price {
+    font-size: 15px;
+    float: left;
+    padding-left: 30px;
+    margin-top: 10px
+}
+
+.course-price-original {
+    font-size: 15px;
+    float: left;
+    padding-left: 25px;
+    text-decoration: line-through;
+    margin-top: 10px
+}
+
+.add-cart-button {
+    margin-top: 22px;
+    width: 98px;
+    color: white;
+    font-size: 10px;
+    height: 30px;
+    background: #FF6738 0% 0% no-repeat padding-box;
+    border-radius: 4px;
+    opacity: 1;
+    float: right;
+    margin-right: 50px;
+    border: none;
+    cursor: pointer;
+}
+
+.ok-button {
+    margin-top: 22px;
+    width: 98px;
+    color: white;
+    font-size: 10px;
+    height: 30px;
+    background: #FF6738 0% 0% no-repeat padding-box;
+    border-radius: 4px;
+    opacity: 1;
+    border: none;
+    cursor: pointer;
+}
+
+.popup-content {
+    display: block;
+    padding: 20px;
+}
+
+.right-arrow {
+    margin-top: 40px;
+    font-size: 10px;
+    opacity: 1;
+    float: right;
+    margin-right: -130px;
+}
+
+.all-course {
+    text-align: left;
+    font: normal normal 600 20px/24px Montserrat;
+    letter-spacing: 0px;
+    color: #0F1317;
+    opacity: 1;
+}
+
+.data-grid {
+    margin: 10px 0px 10px 0px;
+    height: 100%;
+    width: 100%;
+    display: inline-flex;
+}
+
+.left-grid {
+    height: 90%;
+    width: 70%;
+    display: inline-block;
+    margin-left: -12px
+}
+
+.data-card {
+    margin-left: 128px;
+    margin-bottom: 15px;
+    /* width: 60%; */
+    height: 100px;
+    background: #FFFFFF 0% 0% no-repeat padding-box;
+    box-shadow: 0px 3px 6px #00000029;
+    border: 1px solid #F4F4F4;
+    border-radius: 0px 0px 4px 4px;
+    opacity: 3;
+}

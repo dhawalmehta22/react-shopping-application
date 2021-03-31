@@ -1,0 +1,20 @@
+.shopping-right-arrow {
+    margin-top: 0px;
+    font-size: 10px;
+    opacity: 1;
+    float: left;
+    margin-left: 240px;
+}
+
+.shopping-cart-course-price-original {
+    font-size: 15px;
+    float: left;
+    padding-left: 25px;
+    text-decoration: line-through;
+    margin-top: 10px
+}
+
+.shopping-cart-wishlist-course {
+    font-size: 15px;
+    float: left;
+}
